@@ -1,0 +1,17 @@
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\bin\Debug\net6.0-windows\Lab5B.exe
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\bin\Debug\net6.0-windows\Lab5B.deps.json
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\bin\Debug\net6.0-windows\Lab5B.runtimeconfig.json
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\bin\Debug\net6.0-windows\Lab5B.dll
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\bin\Debug\net6.0-windows\Lab5B.pdb
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.csproj.AssemblyReference.cache
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.Form1.resources
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.csproj.GenerateResource.cache
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.AssemblyInfoInputs.cache
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.AssemblyInfo.cs
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.dll
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\refint\Lab5B.dll
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.pdb
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\Lab5B.genruntimeconfig.cache
+C:\Users\Shaun\Documents\Winter_Semester_2023\Advanced_Programming\Lab5B\Lab5B\obj\Debug\net6.0-windows\ref\Lab5B.dll
